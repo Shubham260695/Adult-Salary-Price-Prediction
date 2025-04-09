@@ -8,7 +8,6 @@ This project aims to predict whether an individual earns more than **$50K annual
 
 ## 📊 Dataset Summary
 
-- **Source:** UCI Machine Learning Repository  
 - **Target:** `Salary` (<=50K or >50K)  
 - **Features:** Age, Workclass, Education, Marital Status, Occupation, Race, Gender, Capital Gain, Hours/Week, etc.
 
