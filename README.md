@@ -61,7 +61,7 @@ Best performance achieved with **Random Forest + SMOTE**
 
 ---
 
-## Recommendations
+## Future Improvement
 - Add More Features: Including additional details such as job title, company size, region, and years of work experience could improve the model's performance by capturing more relevant patterns in the data.
 
 
