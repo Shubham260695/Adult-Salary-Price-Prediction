@@ -5,7 +5,10 @@
 This project aims to predict whether an individual earns more than **$50K annually** based on various features such as age, education, occupation, and more. It's based on the popular **Adult Income dataset** and demonstrates the end-to-end workflow of a real-world machine learning classification problem.
 
 ---
+## Purpose of the Project
+- The goal of this project is to help make better decisions in areas like hiring, marketing, credit approval, and social studies by using data to predict a person’s income level.
 
+---
 ##  Dataset Summary
 
 - **Target:** `Salary` (<=50K or >50K)  
@@ -57,4 +60,5 @@ This project aims to predict whether an individual earns more than **$50K annual
 Best performance achieved with **Random Forest + SMOTE**
 
 
+## 
 
