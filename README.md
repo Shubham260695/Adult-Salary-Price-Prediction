@@ -59,4 +59,8 @@ This project aims to predict whether an individual earns more than **50K annuall
 
 Best performance achieved with **Random Forest + SMOTE**
 
+
+## Dashboard
+<img width="1327" height="747" alt="Adult data Salary Dashboards" src="https://github.com/user-attachments/assets/f4f12d3f-c5d4-4c3f-8fd3-07b49d7d7f7b" />
+
 ---
